@@ -15,5 +15,5 @@ Long-term goal: Master's degree in Cybersecurity & Digital Forensics.
 
 ## Contacts
 
-Email: tfisler@stevenson.edu
-LinkedIn: 
+- Email: tfisler@stevenson.edu
+- LinkedIn: <a href="https://www.linkedin.com/in/tristan-fisler-71a31043a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmopWVLbsR%2FitWcxbMdf%2Fng%3D%3D">Tristan Fisler</a>
