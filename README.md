@@ -6,12 +6,15 @@ I'm a Computer Information Systems student with hands-on experience in help desk
 
 Long-term goal: Master's degree in Cybersecurity & Digital Forensics.
 
-## Certifications 
-- Cisco CCST: Networking
-- Cisco CCST: Cybersecurity
-- Cisco CCST: IT Support
-- CompTIA A+ (In Progress)
-- CompTIA Security+ (In Progress)
+## Current Focus: 
+- CompTia Security+
+- TryHackMe SOC Level 1
+- Digital Forensics
+- Python Security Automation
+
+## TryHackMe
+- Pre-Security
+- Windows Fundamentals 1
 
 ## Contacts
 
