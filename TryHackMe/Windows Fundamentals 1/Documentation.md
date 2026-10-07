@@ -23,6 +23,45 @@ This room introduced core Windows operating system concepts including the deskto
 Learned the history of Windows' operating system changes. Discovered the BitLocker Drive Encryption attached only to Windows 11 Pro and not Windows 11 Home.
 
 ### Remote Desktop Protocol
-- Used and configured OpenVPN to connect to TryHackMe network.
+- Configured and deployed **OpenVPN** to connect to remote TryHackMe network.
 - Connected to lab machine via Windows Remote Desktop Connection.
  
+### File Systems
+- Informed of the previous file system types, including the still commonly used simple **File Allocation Table (FAT)** partitions in USB and MicroSD. 
+- Learned the types of permissions to view, modify, and execute files in **NTFS**.
+
+### Account Management
+- Learned the differences between Administrator permissions and User permissions.
+- Use of Run Box and console administrative tools.
+- *lusrmgr.msc* - Local Users and Groups Management
+- **User Account Control (UAC)**: Microsoft technology that forces users in admin accounts to specifically execute downloads and high-privilege decisions with prompts. Follows the confidentiality standard of least privilege.
+
+### Administrative Tools
+ 
+Examined tools such as:
+- Task Manager
+- Control Panel
+- Windows Settings
+- Windows Defender
+
+## Security Relevance
+ 
+Understanding Windows fundamentals is critical for cybersecurity because:
+- Most enterprise environments use Windows systems.
+- User permissions help enforce security controls.
+- Administrative tools are commonly used during incident response.
+ 
+## Reflection
+ 
+This room strengthened my understanding of how Windows systems are structured and administered. The concepts introduced here provide a foundation for future study in SOC operations, digital forensics, and incident response.
+ 
+## Tools Used
+ 
+- Windows Operating System
+- Remote Desktop Protocol
+- OpenVPN GUI
+- TryHackMe Platform
+ 
+## Date Completed
+ 
+September 2026
