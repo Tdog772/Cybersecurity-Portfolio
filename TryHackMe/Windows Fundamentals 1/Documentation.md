@@ -56,7 +56,6 @@ Understanding Windows fundamentals is critical for cybersecurity because:
 This room strengthened my understanding of how Windows systems are structured and administered. The concepts introduced here provide a foundation for future study in SOC operations, digital forensics, and incident response.
  
 ## Tools Used
- 
 - Windows Operating System
 - Remote Desktop Protocol
 - OpenVPN GUI
