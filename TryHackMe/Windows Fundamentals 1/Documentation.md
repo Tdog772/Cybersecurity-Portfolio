@@ -11,4 +11,12 @@ This room introduced core Windows operating system concepts including the deskto
 - Learn common administrative tools
 
 ## Skills Practiced
-- 
+- Windows operating system navigation
+- New Technology File System (NTFS) concepts
+- User/Administrative account tools and privileges
+- Remote Desktop Protocol 
+- Windows Settings/Control Panel
+
+## Key Concepts Learned
+
+### Windows Editions
