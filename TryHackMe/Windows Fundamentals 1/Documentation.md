@@ -52,8 +52,7 @@ Understanding Windows fundamentals is critical for cybersecurity because:
 - Administrative tools are commonly used during incident response.
  
 ## Reflection
- 
-This room strengthened my understanding of how Windows systems are structured and administered. The concepts introduced here provide a foundation for future study in SOC operations, digital forensics, and incident response.
+This room strengthened my understanding of how the modern Windows Operating System is structured and administered. The concepts introduced here provide a foundation for future study in OS operations, account forensics, and administrative tools.
  
 ## Tools Used
 - Windows Operating System
@@ -63,4 +62,4 @@ This room strengthened my understanding of how Windows systems are structured an
  
 ## Date Completed
  
-September 2026
+October 7, 2026
