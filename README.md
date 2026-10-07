@@ -14,7 +14,7 @@ Long-term goal: Master's degree in Cybersecurity & Digital Forensics.
 
 ## TryHackMe
 - Pre-Security
-- Windows Fundamentals 1
+- Cybersecurity 101 (In Progress)
 
 ## Contacts
 
