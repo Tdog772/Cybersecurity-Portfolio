@@ -9,14 +9,19 @@ Introduction to multiple online sites and specialized tools to prepare for threa
 
 ## Skills Practiced
 - Open Source Intelligence (OSINT)
-- Specialized Search Engines
+- Threat Research
+- Vulnerability Research
+- Technical Documentation Analysis
+- CVE Investigation
+- Search Query Development
 
-## Key Learning
+## Key Concepts Learned
 
 ### <a href="https://www.shodan.io/" target="_blank" rel="noopener noreferrer">Shodan</a>
 - An online tool that continuously searches internet-connected devices, servers, and networks to see what is running and its location.
 - Contains query filters to narrow down searches by country, port, organization, and/or hostname.
-- TryHackMe Example: Apache servers (a widely used open-source web server technology) to find IP address: 185.243.115.47.
+
+TryHackMe Example: Apache servers (a widely used open-source web server technology) to find IP address: 185.243.115.47.
   - Domain related: tryhackme.thm
   - Region: Amsterdam, Netherlands
   - Ports: 22 (Secure Shell/SSH), 80 (Hypertext Transfer Protocol/HTTP), 443 (HTTP Secure/HTTPS), 8080 (Alt HTTP)
@@ -25,7 +30,8 @@ Introduction to multiple online sites and specialized tools to prepare for threa
 ### <a href="https://www.virustotal.com/" target="_blank" rel="noopener noreferrer">VirusTotal</a>
 - An online database of saved domains, IP addresses, and file hashes flagged for malicious behavior.
 - Every query tested by over 70 antivirus engines and web scanners.
-- Example used: Searched invoice_payment.exe; Found:
+
+Example used: Searched invoice_payment.exe; Found:
   - 52/72 vendors identifying the executable as malicious
   - Many referring to invoice_payment.exe as a Trojan Horse/Spyware
 
@@ -59,6 +65,13 @@ Introduction to multiple online sites and specialized tools to prepare for threa
 - VirusTotal
 - CVE databases
 - Linux CLI
+
+## Security Relavance
+Open-source intelligence tools such as Shodan and VirusTotal allow analysts to investigate infrastructure and suspicious files more efficiently.
+ 
+CVE databases assist vulnerability management in identifying known weaknesses and prioritizing correction.
+ 
+Technical documentation supports secure and accurate use of security tools.
 
 ## Reflection
 The use of online tools to search and discover known malicious software and sites saves time and resources while making the jobs of threat hunters and security professionals more collaborative and efficient.
