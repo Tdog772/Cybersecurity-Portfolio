@@ -13,10 +13,16 @@ This room introduced core Windows operating system concepts including the deskto
 ## Skills Practiced
 - Windows operating system navigation
 - New Technology File System (NTFS) concepts
-- User/Administrative account tools and privileges
+- Administrative tools and user account privileges
 - Remote Desktop Protocol 
 - Windows Settings/Control Panel
 
 ## Key Concepts Learned
 
 ### Windows Editions
+Learned the history of Windows' operating system changes. Discovered the BitLocker Drive Encryption attached only to Windows 11 Pro and not Windows 11 Home.
+
+### Remote Desktop Protocol
+- Used and configured OpenVPN to connect to TryHackMe network.
+- Connected to lab machine via Windows Remote Desktop Connection.
+ 
