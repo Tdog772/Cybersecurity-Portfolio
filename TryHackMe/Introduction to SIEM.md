@@ -27,7 +27,7 @@ SIEM centralizes the thousands of logs, standardizes the format, and correlates 
 Main features include:
 
 - Easier management of logs: Centralization, format standardization, and information correlation make logs simpler to manage and follow.
-- Real-time alerting: Many rules (natural or added based on the organization and specific tool) check logs for clear  evidence like unknown sources or potentially malicious payloads. These can be immediately alarmed to analysts faster than any human would notice.
+- Real-time alerting: Many rules (natural or added based on the organization and specific tool) check logs for clear evidence such as unknown sources or potentially malicious payloads. Detection rules generate alerts automatically, analysts can investigate activity in near real-time.
 - Dashboards: The summary of multiple fields of analysis are found in a SIEM's dashboard. This system increases the speed of responses and increases the effectiveness of an organization's security by several magnitudes.
 
 ### Real Examples of Log Sources
@@ -36,7 +36,7 @@ Main features include:
 Event Viewer contains all the logs each with a unique assigned ID.
 
 #### Linux Machine
-Linux OS stores logs under the file direction "/var/log" with several locations that hold more specialized logs.
+Linux OS stores logs under the file direction "/var/log" with several locations that hold specialized logs.
 - /httpd: HTTP Request/Response and error logs
 - /auth.log | /secure for authentication-related logs
 - /kern for kernel related events
@@ -52,7 +52,7 @@ Main checks for dectection
 - Source/Destination - Unusual activity from unknown source or to server
 - Commands - After privilege escalation, adversaries may make usage of commands that should be checked
 Alert types:
-- True Positive: Malicious activity and flagged (the real effort)
+- True Positive: Malicious activity and flagged (real danger for analysts to contain/isolate)
 - False Positive: Normal activity and flagged (time waster)
 - True Negative: Normal activity and ignored (noise)
 - False Negative: Malicious activity and ignored (most dangerous)
