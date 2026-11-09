@@ -1,4 +1,4 @@
-# TryHackMe: Introduction to System Information and Events Management System
+# TryHackMe: Introduction to Security Information and Events Management System
 
 ## Overview
 Learning the fundamentals of SIEM, including its features and functionality.
@@ -9,7 +9,10 @@ Learning the fundamentals of SIEM, including its features and functionality.
 - Understand the process behind alerts and alert analysis
 
 ## Skills Practiced
-- g
+- Log management
+- Alert analysis
+- Suspicious pattern recognition
+- Data correlation
 
 ## Key Concepts Learned
 
@@ -30,16 +33,39 @@ Main features include:
 ### Real Examples of Log Sources
 
 #### Windows Machine
-- Event Viewer contains 
+Event Viewer contains all the logs each with a unique assigned ID.
 
+#### Linux Machine
+Linux OS stores logs under the file direction "/var/log" with several locations that hold more specialized logs.
+- /httpd: HTTP Request/Response and error logs
+- /auth.log | /secure for authentication-related logs
+- /kern for kernel related events
+
+### Alerting Process
+Creating detection rules based on frequent malicious activity is essential to SIEM alerts.
+Examples:
+- 5 failed login attempts within a certain period - Raise alert: Multiple Failed Login Attempts
+- Alert set when a USB drive is plugged into any device
+- If outbound traffic >25 mb, alert in case of data exfiltration
+Main checks for dectection
+- EventID - Specific action taken in a log
+- Source/Destination - Unusual activity from unknown source or to server
+- Commands - After privilege escalation, adversaries may make usage of commands that should be checked
+Alert types:
+- True Positive: Malicious activity and flagged (the real effort)
+- False Positive: Normal activity and flagged (time waster)
+- True Negative: Normal activity and ignored (noise)
+- False Negative: Malicious activity and ignored (most dangerous)
 
 ## Tools Used
+- TryHackMe SIEM Dashboard
 
 ## Security Relevance
 SIEM and its iterations (Splunk, Microsoft Sentinel) is the basis for the majority of SOC analysts.
 Learning how to follow logs to their source, discover their risks, and respond to malicious action are essential skills. 
 
 ## Reflection
+This room developed my understanding of what SIEM is, how it assists SOC analysts in the understanding of logs, and the simplicity of its dashboard visibility.
 
 ## Date Completed
 
