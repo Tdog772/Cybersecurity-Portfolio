@@ -25,6 +25,8 @@ Learned the history of Windows' operating system changes. Discovered the BitLock
 ### Remote Desktop Protocol
 - Configured and deployed **OpenVPN** to connect to remote TryHackMe network.
 - Connected to lab machine via Windows Remote Desktop Connection.
+<img width="653" height="190" alt="image" src="https://github.com/user-attachments/assets/1a9a6ac0-d24f-4e3a-a4a3-cabc6ba1092c" />
+
  
 ### File Systems
 - Informed of the previous file system types, including the still commonly used simple **File Allocation Table (FAT)** partitions in USB and MicroSD. 
