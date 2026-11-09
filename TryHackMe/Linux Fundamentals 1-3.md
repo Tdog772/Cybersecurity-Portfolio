@@ -17,7 +17,7 @@ Developing the basics of Linux Operating System, commands,
 - <i>echo</i> [text]: output specific text applied
 - <i>ls</i>: list what is in the current folder
 - <i>cd</i> [directory]: change directory
-  - <i>cd ..</i>: return to previous directory
+  - <i>cd ..</i> : return to previous directory
 - <i>cat</i> [file]: show contents of a file
 - <i>pwd</i>: print working directory
 - <i>find -name</i> [file]: search for files by name
