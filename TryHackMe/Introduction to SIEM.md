@@ -58,12 +58,33 @@ Alert types:
 - False Negative: Malicious activity and ignored (most dangerous)
 
 ## Practical Lab Scenario in TryHackMe
-<img width="460" height="490" alt="image" src="https://github.com/user-attachments/assets/81304565-c1c4-4300-b4d1-25fdd4cb34b0" />
 
 A typical SIEM dashboard.
 
 
+<img width="460" height="490" alt="image" src="https://github.com/user-attachments/assets/81304565-c1c4-4300-b4d1-25fdd4cb34b0" />
 
+<br>
+
+Potential malicious data miner activity.
+
+<img width="176" height="92" alt="image" src="https://github.com/user-attachments/assets/a76be129-b04a-46f1-9c28-03ac9e1ae853" />
+
+<br>
+
+Alerted executed action, hostname, and user responsible.
+
+<img width="377" height="35" alt="image" src="https://github.com/user-attachments/assets/faef9859-cebf-471f-9dda-03a4ba16f43f" />
+
+<br>
+
+Proper response to malicious activity.
+
+<img width="391" height="185" alt="image" src="https://github.com/user-attachments/assets/f92df6ae-7743-4e13-b300-5f91eecbc731" />
+
+<br>
+
+The true positive alert was discovered, analyzed for evidence of malicious activity, and the host was isolated to prevent further corruption and malicious activity. 
 
 ## Tools Used
 - TryHackMe SIEM Dashboard
