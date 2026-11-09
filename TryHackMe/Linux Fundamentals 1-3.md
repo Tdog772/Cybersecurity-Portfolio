@@ -4,11 +4,13 @@
 Developing the basics of Linux Operating System, commands, 
 
 ## Objectives
-- Learn basic
+- Learn essential commands
+- 
 
 ## Skills Practiced
 - File Navigation
 - User Discovery
+- Log into Linux via SSH
 
 ## Key Concepts Learned
 
@@ -22,6 +24,12 @@ Developing the basics of Linux Operating System, commands,
 - <i>pwd</i>: print working directory
 - <i>find -name</i> [file]: search for files by name
 - <i>grep</i> [text] [file]: searches inside file for text
+
+### Combining Commands
+- [command] & [command]: runs two commands at once, better for commands that take lonnger
+- [command] && [command]: waits for first command to complete before running the subsequent command
+- [command] > [file]: take output of command and send it to a file, overwrites anything in the file
+- [command] >> [file]: take output of command send it to a file without overwriting 
 
 ## Tools Used
 - Linux Terminal
