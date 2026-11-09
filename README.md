@@ -1,8 +1,8 @@
 # Cybersecurity-Portfolio
-Aspiring SOC Analyst | Digital Forensics &amp; Incident Response | Undergraduate CIS Student | CompTia Security+ (In Progress) | A+ (In Progress) | CCST Certified
+Aspiring SOC Analyst | Undergraduate CDF Student | CompTia Security+ (In Progress) | CCST Certified
 
 ## About Me
-I'm a Computer Information Systems student with hands-on experience in help desk, networking, and cybersecurity fundamentals. I’m actively building skills in SOC analysis, digital forensics, incident response, and malware analysis through TryHackMe, coursework, and personal projects.
+I'm a Cybersecurity and Digital Forensics student with hands-on experience in help desk, networking, and cybersecurity fundamentals. I’m actively building skills in SOC analysis, digital forensics, incident response, and malware analysis through TryHackMe, coursework, and personal projects.
 
 Long-term goal: Master's degree in Cybersecurity & Digital Forensics.
 
