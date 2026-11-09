@@ -59,6 +59,7 @@ Alert types:
 
 ## Practical Lab Scenario in TryHackMe
 <img width="460" height="490" alt="image" src="https://github.com/user-attachments/assets/81304565-c1c4-4300-b4d1-25fdd4cb34b0" />
+
 A typical SIEM dashboard.
 
 
