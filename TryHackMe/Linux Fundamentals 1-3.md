@@ -4,14 +4,15 @@
 Developing the basics of Linux Operating System, commands, 
 
 ## Objectives
-- Learn essential commands
+- Learn essential -> advanced commands
+- Logging in through SSH
 - 
 
 ## Skills Practiced
 - File Navigation
 - User Discovery
-- Log into Linux via SSH
-
+- Remote Access
+  
 ## Key Concepts Learned
 
 ### Command List
@@ -29,14 +30,21 @@ Developing the basics of Linux Operating System, commands,
 - [command] & [command]: runs two commands at once, better for commands that take lonnger
 - [command] && [command]: waits for first command to complete before running the subsequent command
 - [command] > [file]: take output of command and send it to a file, overwrites anything in the file
-- [command] >> [file]: take output of command send it to a file without overwriting 
+- [command] >> [file]: take output of command send it to a file without overwriting
+
+### Secure Socket Shell (SSH)
+Protocol that lets devices talk securely over a network. 
+Requires the IP address and account information of the remote device (username/password).
+
 
 ## Tools Used
 - Linux Terminal
 - TryHackMe Lab Machine
+- TryHackMe AttackBox
 
 ## Security Relevance
 Linux OS is used in the majority of servers and a significant number of mobile devices worldwide. 
+SSH is a foundational method of 
 
 ## Reflection
 
