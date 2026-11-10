@@ -33,7 +33,7 @@ Developing the basics of Linux Operating System, commands,
 - [command] >> [file]: take output of command send it to a file without overwriting
 
 ### Secure Socket Shell (SSH)
-Protocol that lets devices talk securely over a network. 
+Protocol that lets devices talk securely over a network. <br>
 Requires the IP address and account information of the remote device (username/password).
 
 
